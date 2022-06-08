@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Аркадий
-- 👀 I’m interested in программирование и  сфера IT-технолог
-- 🌱 I’m currently learning  программиирование на языке JavaScript
+- 👀 I’m interested in programming and IT-technologies
+- 🌱 I’m currently learning JavaScript programming
 
 <!---
 ArkadiyAxenov2905/ArkadiyAxenov2905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
